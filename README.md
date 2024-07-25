@@ -8,7 +8,7 @@ The application code is confidental due to internship rules
 
 ## Description
 
-This project is a Cinema Reservation System consisting of an ASP.NET backend and an Angular frontend built during traineeship at Comarch BI Point team.
+This project is a Cinema Reservation System - a fullstack app built using ASP.Net and Angular as an onboarding application during internship at Comarch BI Point team.
 
 ## Details of the application
 
